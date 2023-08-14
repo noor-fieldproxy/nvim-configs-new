@@ -224,11 +224,6 @@ _G.packer_plugins = {
     path = "/home/fp/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
   },
-  ["vim-fugitive"] = {
-    loaded = true,
-    path = "/home/fp/.local/share/nvim/site/pack/packer/start/vim-fugitive",
-    url = "https://github.com/tpope/vim-fugitive"
-  },
   ["vim-startify"] = {
     loaded = true,
     path = "/home/fp/.local/share/nvim/site/pack/packer/start/vim-startify",
