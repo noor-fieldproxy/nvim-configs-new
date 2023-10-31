@@ -30,3 +30,5 @@ require("nvim-treesitter.configs").setup {
         },
     },
 }
+
+-- Reinstall tree-sitter is any issue arises, and run TSUpdate
